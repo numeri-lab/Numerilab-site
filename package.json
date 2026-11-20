@@ -1,0 +1,11 @@
+{
+  "name": "numerilab",
+  "private": true,
+  "scripts": {
+    "build": "npm run --prefix frontend build",
+    "build:watch": "npm run --prefix frontend build:watch",
+    "dev": "npm run --prefix frontend dev",
+    "start": "node backend/src/server.js",
+    "server": "node --watch backend/src/server.js"
+  }
+}

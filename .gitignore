@@ -1,0 +1,22 @@
+# Dépendances et builds
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+dist/
+.venv/
+__pycache__/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# Données privées des formulaires clients
+backend/data/contacts.json
+
+# Archives et fichiers temporaires OS
+*.tar.gz
+.DS_Store
+*/.DS_Store
