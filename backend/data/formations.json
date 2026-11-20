@@ -1,0 +1,191 @@
+[
+  {
+    "titre": "Programmation",
+    "categorieId": "programmation",
+    "description": "Apprenez à coder des applications web, mobiles et à manipuler des volumes de données avec les langages les plus demandés du marché (Python, Java, Flutter).",
+    "ateliers": [
+      {
+        "id": "python-data",
+        "titre": "Python pour l’analyse de données",
+        "categorie": "Programmation",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Tous niveaux",
+        "objectif": "Maîtrisez les fondamentaux de Python, manipulez des jeux de données complexes avec Pandas et concevez des visualisations d’impact avec Matplotlib et Seaborn.",
+        "projet": "Analyser un jeu de données réel d’entreprise et restituer les conclusions sous forme de graphiques commentés.",
+        "fiche": "/uploads/formations/python_2.jpg",
+        "programme": [
+          "Module 1 : Environnement Python, types de données, structures conditionnelles et boucles",
+          "Module 2 : Calcul numérique et vectoriel avec la bibliothèque NumPy",
+          "Module 3 : Manipulation, nettoyage et agrégation de données avec Pandas",
+          "Module 4 : Data visualisation avancée avec Matplotlib et Seaborn",
+          "Module 5 : Projet pratique complet : analyse de données et soutenance finale"
+        ]
+      },
+      {
+        "id": "java-poo",
+        "titre": "Java - Programmation orientée objet",
+        "categorie": "Programmation",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Débutant à intermédiaire",
+        "objectif": "Acquérez les principes fondamentaux de la programmation orientée objet (POO) pour concevoir et développer des applications logicielles robustes et modulaires.",
+        "projet": "Développer une application Java complète avec gestion de données et interface utilisateur.",
+        "fiche": "/uploads/formations/javacode.jpg",
+        "programme": [
+          "Module 1 : Syntaxe de base de Java, variables, opérateurs et structures de contrôle",
+          "Module 2 : Paradigme objet : classes, attributs, méthodes et instanciation",
+          "Module 3 : Principes avancés : héritage, polymorphisme et encapsulation",
+          "Module 4 : Interfaces, gestion des exceptions et structures de données (Collections, List, Map)",
+          "Module 5 : Projet applicatif final : conception et déploiement d’un logiciel autonome"
+        ]
+      }
+    ]
+  },
+  {
+    "titre": "Pack Office & Data",
+    "categorieId": "office-data",
+    "description": "Structurez vos données dans Excel, créez des tableaux de bord interactifs dans Power BI et optimisez votre productivité quotidienne en entreprise.",
+    "ateliers": [
+      {
+        "id": "excel-pro",
+        "titre": "Excel pour l’analyse de données",
+        "categorie": "Bureautique & Data",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Tous niveaux",
+        "objectif": "Devenez autonome sur Excel en maîtrisant les formules indispensables, les tableaux croisés dynamiques, l’automatisation et la mise en forme graphique professionnelle.",
+        "projet": "Concevoir un outil de gestion et de suivi de performance automatisé sous Excel.",
+        "fiche": "/uploads/formations/excel.jpg",
+        "programme": [
+          "Module 1 : Interface, ergonomie, saisie rapide et gestion avancée des classeurs",
+          "Module 2 : Formules de calcul fondamentales, logiques et conditionnelles (SI, ET, OU)",
+          "Module 3 : Fonctions de recherche et liaison de données (RECHERCHEV, RECHERCHEX, INDEX/EQUIV)",
+          "Module 4 : Tableaux croisés dynamiques (TCD), segments et graphiques décisionnels",
+          "Module 5 : Projet final : création d’un tableau de bord de gestion opérationnelle"
+        ],
+        "affiche": "/uploads/formations/Excel_fiche.jpeg"
+      },
+      {
+        "id": "power-bi",
+        "titre": "Power BI pour la Data Visualisation",
+        "categorie": "Bureautique & Data",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Intermédiaire",
+        "objectif": "Connectez vos sources de données, nettoyez-les avec Power Query, créez des mesures en langage DAX et publiez des tableaux de bord interactifs pour la prise de décision.",
+        "projet": "Construire un dashboard interactif complet connecté à des données de vente ou de gestion.",
+        "fiche": "/uploads/formations/powerbi1.png",
+        "programme": [
+          "Module 1 : Introduction à la Business Intelligence et prise en main de Power BI Desktop",
+          "Module 2 : Extraction, transformation et chargement (ETL) avec Power Query",
+          "Module 3 : Modélisation des données, relations entre tables et schéma en étoile",
+          "Module 4 : Introduction aux calculs et indicateurs clés avec le langage DAX (SUMX, CALCULATE)",
+          "Module 5 : Projet final : conception et ergonomie d’un rapport interactif de direction"
+        ]
+      }
+    ]
+  },
+  {
+    "titre": "Intelligence artificielle",
+    "categorieId": "ia",
+    "description": "Comprenez les concepts fondamentaux de l’IA, explorez les outils d’IA générative et intégrez les technologies d’apprentissage automatique dans vos projets.",
+    "ateliers": [
+      {
+        "id": "ia-initiation",
+        "titre": "Initiation à l’intelligence artificielle",
+        "categorie": "Intelligence Artificielle",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Tous niveaux",
+        "objectif": "Découvrez le fonctionnement des modèles d’IA, maîtrisez l’art du prompt engineering avec les LLM (ChatGPT, Claude, Gemini) et découvrez le Machine Learning.",
+        "projet": "Développer un prototype d’application exploitant l’IA générative pour automatiser une tâche réelle.",
+        "fiche": "/uploads/formations/IA.webp",
+        "programme": [
+          "Module 1 : Comprendre l’IA : histoire, terminologie, Machine Learning vs Deep Learning",
+          "Module 2 : Maîtrise des IA génératives (LLM) et techniques avancées de Prompt Engineering",
+          "Module 3 : Cas d’usage professionnels : synthèse, automatisation et génération de contenu",
+          "Module 4 : Découverte des algorithmes d’apprentissage supervisé et de classification",
+          "Module 5 : Projet final : création d'un assistant intelligent ou mini-application boostée à l’IA"
+        ]
+      }
+    ]
+  },
+  {
+    "titre": "Logiciels spécialisés & Génie civil",
+    "categorieId": "cao-ingenierie",
+    "description": "Formez-vous aux logiciels métiers de référence en génie civil, dessin d’architecture et géomatique sous la direction d'ingénieurs spécialisés.",
+    "ateliers": [
+      {
+        "id": "autocad-2d",
+        "titre": "Dessin technique et modélisation 3D avec AutoCAD et ArchiCAD",
+        "categorie": "Génie Civil & CAO",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "En présentiel et en ligne",
+        "niveau": "Tous niveaux",
+        "objectif": "Apprenez à concevoir des plans architecturaux en 2D avec AutoCAD et à réaliser des maquettes numériques de bâtiments en 3D avec ArchiCAD.",
+        "projet": "Réaliser le plan architectural 2D d’un bâtiment simple avec AutoCAD, puis développer sa maquette numérique 3D avec ArchiCAD. Présenter le projet à travers des plans exportés en PDF et des vues 3D.",
+        "fiche": "/uploads/formations/autocad.webp",
+        "programme": [
+          "Module 1 : Prise en main d'AutoCAD, repères de coordonnées et dessin des plans architecturaux 2D",
+          "Module 2 : Outils de modification, gestion des calques, cotations normées et blocs sous AutoCAD",
+          "Module 3 : Prise en main d'ArchiCAD, modélisation des murs, dalles et ouvertures en 3D",
+          "Module 4 : Aménagement, toitures, textures et génération des coupes et élévations",
+          "Module 5 : Projet final pratique : plan 2D AutoCAD et maquette 3D ArchiCAD exportés en PDF et vues 3D"
+        ]
+      },
+      {
+        "id": "robot-structural",
+        "titre": "Robot Structural Analysis",
+        "categorie": "Génie Civil & CAO",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Intermédiaire (BTP/Génie Civil)",
+        "objectif": "Modélisez des structures porteuses de bâtiments, définissez les chargements réglementaires et analysez les diagrammes d’efforts internes pour le dimensionnement.",
+        "projet": "Modéliser et analyser une structure complète en béton armé ou métallique et générer la note de calcul.",
+        "fiche": "/uploads/formations/roboanalysis.avif",
+        "programme": [
+          "Module 1 : Prise en main de Robot Structural Analysis et configuration des normes de calcul",
+          "Module 2 : Modélisation filaire (poutres, poteaux), conditions d’appuis et caractéristiques des matériaux",
+          "Module 3 : Définition des charges permanentes, d’exploitation et combinaisons d’actions (ELU / ELS)",
+          "Module 4 : Lancement des calculs statiques, interprétation des déformées et diagrammes des moments",
+          "Module 5 : Projet final : note de calcul et dimensionnement complet d'un portique structurel"
+        ]
+      },
+      {
+        "id": "arcgis-sig",
+        "titre": "Cartographie et SIG avec ArcGIS",
+        "categorie": "Génie Civil & CAO",
+        "tarif": "40 000 FCFA",
+        "duree": "10h",
+        "rythme": "2 séances de 4h + 1 séance de 2h par semaine",
+        "mode": "Présentiel & 100% à distance",
+        "niveau": "Tous niveaux",
+        "objectif": "Maîtrisez les Systèmes d’Information Géographique (SIG), traitez des données géoréférencées (vecteur et raster) et réalisez des cartes thématiques communicantes.",
+        "projet": "Produire une carte thématique professionnelle prête pour la publication territoriale.",
+        "fiche": "/uploads/formations/arcgis.jpeg",
+        "programme": [
+          "Module 1 : Principes des SIG, systèmes de coordonnées et géoréférencement sous ArcGIS",
+          "Module 2 : Manipulation des couches vectorielles (points, lignes, polygones) et tables attributaires",
+          "Module 3 : Requêtes spatiales, géotraitement (tampons, découpages) et manipulation de rasters",
+          "Module 4 : Sémiologie graphique, symbologie avancée et étiquetage cartographique",
+          "Module 5 : Projet final : conception et mise en page d'une carte d'aménagement du territoire"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "numerilab-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.2.1",
+    "nodemailer": "^10.6.0"
+  }
+}
