@@ -1,0 +1,114 @@
+[
+  {
+    "id": "habibata-samake",
+    "nom": "Habibata Samaké",
+    "titre": "Ingénieure en intelligence artificielle",
+    "formation": "Télécom Paris",
+    "ecole": "Télécom Paris",
+    "domaine": "Intelligence artificielle",
+    "badgeDomaine": "IA & DATA",
+    "competences": [
+      "Intelligence artificielle",
+      "Machine Learning",
+      "Python"
+    ],
+    "bio": "Spécialisée en intelligence artificielle, elle intervient dans le développement et le déploiement de solutions d’IA adaptées aux usages professionnels.",
+    "portrait": "/uploads/equipe/habibata.jpg"
+  },
+  {
+    "id": "abdoulaye-sall",
+    "nom": "Abdoulaye Sall",
+    "titre": "Ingénieur généraliste — Génie industriel & gestion de projets",
+    "formation": "Arts et Métiers ParisTech",
+    "ecole": "Arts et Métiers ParisTech",
+    "domaine": "Génie industriel & Projets",
+    "badgeDomaine": "GÉNIE INDUSTRIEL",
+    "competences": [
+      "Génie industriel",
+      "Optimisation des processus",
+      "Gestion de projet"
+    ],
+    "bio": "Ses compétences couvrent l’optimisation des processus, la modélisation technique et le pilotage de projets, avec une approche structurée de l’amélioration de la performance.",
+    "portrait": "/uploads/equipe/abdoulaye.jpg"
+  },
+  {
+    "id": "jiddou-ag-toutta",
+    "nom": "Jiddou Ag Toutta",
+    "titre": "Ingénieur en génie civil et hydraulique",
+    "formation": "École Polytechnique d’Agadir",
+    "ecole": "École Polytechnique d’Agadir",
+    "domaine": "Génie civil & Hydraulique",
+    "badgeDomaine": "INGÉNIERIE",
+    "competences": [
+      "Génie civil",
+      "Hydraulique",
+      "Dimensionnement"
+    ],
+    "bio": "Spécialisé en génie civil et hydraulique, il intervient dans les études de conception, le dimensionnement des structures et les projets d’aménagement hydraulique.",
+    "portrait": "/uploads/equipe/jiddou.jpg"
+  },
+  {
+    "id": "mariam-bah",
+    "nom": "Mariam Bah",
+    "titre": "Ingénieure géotechnicienne",
+    "formation": "Sorbonne Université",
+    "ecole": "Sorbonne Université",
+    "domaine": "Géotechnique & SIG",
+    "badgeDomaine": "GÉOTECHNIQUE & SIG",
+    "competences": [
+      "Géotechnique",
+      "Mécanique des sols",
+      "SIG"
+    ],
+    "bio": "Spécialisée en géosciences et mécanique des sols, elle mobilise ses compétences en géotechnique, cartographie et analyse spatiale pour contribuer aux études techniques et environnementales.",
+    "portrait": "/uploads/equipe/mariam.jpg"
+  },
+  {
+    "id": "oumar-diallo",
+    "nom": "Oumar Diallo",
+    "titre": "Ingénieur généraliste — Data Analytics & Business Intelligence",
+    "formation": "École Centrale de Lyon",
+    "ecole": "École Centrale de Lyon",
+    "domaine": "Data Analytics & BI",
+    "badgeDomaine": "DATA ANALYTICS",
+    "competences": [
+      "Data Analytics",
+      "Power BI",
+      "Python"
+    ],
+    "bio": "Spécialisé dans l’analyse et la valorisation des données, il intervient dans la conception de tableaux de bord, de rapports de pilotage et d’outils d’aide à la décision.",
+    "portrait": "/uploads/equipe/oumar.jpg"
+  },
+  {
+    "id": "cheickna-barro",
+    "nom": "Cheickna Barro",
+    "titre": "Ingénieur en systèmes d’information",
+    "formation": "ENSA Tanger",
+    "ecole": "ENSA Tanger",
+    "domaine": "Systèmes d’information",
+    "badgeDomaine": "SYSTÈMES D’INFO",
+    "competences": [
+      "Développement web",
+      "Architecture logicielle",
+      "Bases de données"
+    ],
+    "bio": "Spécialisé en développement logiciel et en architecture des systèmes d’information, il contribue à la conception de solutions web et applicatives adaptées aux besoins des organisations.",
+    "portrait": "/uploads/equipe/cheickna.jpg"
+  },
+  {
+    "id": "fatoumata-madiou-traore",
+    "nom": "Fatoumata Madiou Traoré",
+    "titre": "Spécialiste en Data Analytics & Finance d’entreprise",
+    "formation": "Master « Data Analytics and Corporate Finance » — École polytechnique (l’X)",
+    "ecole": "École polytechnique (l’X)",
+    "domaine": "Data & Finance",
+    "badgeDomaine": "DATA & FINANCE",
+    "competences": [
+      "Data Analytics",
+      "Corporate Finance",
+      "Analyse de performance"
+    ],
+    "bio": "Son parcours associe analyse de données et finance d’entreprise, deux compétences utiles à l’analyse de la performance et à l’aide à la décision.",
+    "portrait": "/uploads/equipe/fatoumata.jpg"
+  }
+]
